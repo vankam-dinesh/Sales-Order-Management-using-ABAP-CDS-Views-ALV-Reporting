@@ -1,0 +1,4 @@
+Adobe Form Concept:
+- Interface: Sales Order Data
+- Layout: Header (Customer Info), Item Table, Total Amount
+- Triggered from ABAP using FP_FUNCTION_MODULE_NAME
